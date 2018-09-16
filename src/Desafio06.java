@@ -67,9 +67,9 @@ public class Desafio06 {
                     break;
                 case 5:
                     System.out.println("Sabendo que uma equação de primeiro grau é definida por: y=ax+b");
-                    System.out.println("Qual o valor de a");
+                    System.out.println("Qual o valor de A");
                     valor1 = s.nextInt();
-                    System.out.println("Qual o valor de b");
+                    System.out.println("Qual o valor de B");
                     valor2 = s.nextInt();
                     if(valor1 < 0){
                         valor1 = valor1 * -1;
